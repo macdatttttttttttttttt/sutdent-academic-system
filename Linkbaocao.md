@@ -1,16 +1,16 @@
 # UML Diagrams
 
 ## 1. Class Diagram
-https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Class%20Diagram.drawio
+https://app.diagrams.net/?url=https://raw.githubusercontent.com/macdatttttttttttttttt/sutdent-academic-system/refs/heads/main/source/qld4.drawio
 
 ## 2. Use Case Diagram
-https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Use%20Case%20Diagram.drawio
+https://app.diagrams.net/?url=https://raw.githubusercontent.com/macdatttttttttttttttt/sutdent-academic-system/refs/heads/main/source/qld5.drawio
 
 ## 3. Activity Diagram
-https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Activity%20Diagram.drawio
+https://app.diagrams.net/?url=https://raw.githubusercontent.com/macdatttttttttttttttt/sutdent-academic-system/refs/heads/main/source/qld2.drawio
 
 ## 4. Sequence Diagram
-https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Sequence%20Diagram.drawio
+https://app.diagrams.net/?url=https://raw.githubusercontent.com/macdatttttttttttttttt/sutdent-academic-system/refs/heads/main/source/qld3.drawio
 
 ## 5. State Diagram
 https://app.diagrams.net/?url=https://raw.githubusercontent.com/macdatttttttttttttttt/sutdent-academic-system/refs/heads/main/source/qld1.drawio
