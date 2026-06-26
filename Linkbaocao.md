@@ -13,4 +13,4 @@ https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-do
 https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/Sequence%20Diagram.drawio
 
 ## 5. State Diagram
-https://app.diagrams.net/?url=https://raw.githubusercontent.com/trungkienpk11-dotcom/restaurant-management-system/refs/heads/main/Source/State%20Diagram.drawio
+https://app.diagrams.net/?url=https://raw.githubusercontent.com/macdatttttttttttttttt/sutdent-academic-system/refs/heads/main/source/qld1.drawio
